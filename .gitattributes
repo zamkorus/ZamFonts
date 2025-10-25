@@ -1,0 +1,5 @@
+# Treat font assets as binary to avoid line-ending normalization and text merges
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
