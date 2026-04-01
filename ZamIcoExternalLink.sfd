@@ -3,7 +3,7 @@ FontName: ZamIcoExternalLink
 FullName: ZamIco External Link
 FamilyName: ZamIco External Link
 Weight: Regular
-Copyright: ZAMKORUS | zamkorus.pl | zamkorus.com
+Copyright: https://creativecommons.org/licenses/by-nc-nd/4.0/\n ZAMKORUS | zamkorus.pl | zamkorus.com
 FontLog: "zamkor novum"
 Version: 2.6
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729206079
-ModificationTime: 1761409815
+ModificationTime: 1775070082
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000000.02000000.04000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "https://zamkorus.com" "" "Attribution-NonCommercial-NoDerivatives 4.0 International" "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 Encoding: Original
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -68,7 +68,6 @@ WinInfo: 0 38 13
 BeginPrivate: 1
 BlueValues 7 [-20 0]
 EndPrivate
-AnchorClass2: """" 
 BeginChars: 5 5
 
 StartChar: .notdef
@@ -124,7 +123,7 @@ Validated: 1
 EndChar
 
 StartChar: uF6973
-Encoding: 20 1010035 20
+Encoding: 4 1010035 4
 Width: 800
 Flags: W
 HStem: 0 96<96 544> 544 96<96 256> 680 120<447.235 595>
@@ -200,6 +199,5 @@ SplineSet
 EndSplineSet
 Validated: 1
 EndChar
-
 EndChars
 EndSplineFont
