@@ -4,7 +4,7 @@ FullName: ZamIco
 FamilyName: ZamIco
 Weight: Regular
 Copyright: Zamkorus ONLY FOR USE ON ZAMKORUS.PL WEBSITE ALL LOGOS & ICONS ARE RIGHTS ARE OWN BY COPYRIGHT OWNERS:\n\nSCHOOL ICON:\n    COLLECTION: Font Awesome Solid Icons\n    LICENSE: CC Attribution License\n    AUTHOR: FortAwesome\n\nPHONE ICON:\n    COLLECTION: Solar Bold Icons\n    LICENSE: CC Attribution License\n    AUTHOR: Solar Icons\n\nTUDELFT LOGO:\n    Delft university of technology\n    tudelft.nl\n\nZAMKORUS LOGO & LETTER ICON:\n    Krzysztof Zablocki (Zamkorus)\n    zamkorus.pl\n\nUNI TXT ICON:\n    Krzysztof Zablocki (Zamkorus)\n    zamkorus.pl\n\nLANGUAGE SVG ICON:\n    COLLECTION: Ficons Interface Icons\n    LICENSE: PD License\n    AUTHOR: fiction\n\nBUISSEN CARD ICON:\n    COLLECTION: Typicons Filled Icons\n    LICENSE: PD License\n    AUTHOR: stephenhutchings\n\nWBS LOGO:\n    (c) WBS TRAINING \n    www.wbstraining.de\n\nPGE ICON:\n    (c) Polska Grupa Energetyczna\n    https://www.gkpge.pl\n\nLINK-EXTERNAL-SMALL ICON:\n    SOURCE: https://en.m.wikipedia.org/wiki/File:Link-external-small-ltr-progressive.svg\n    AUTHOR: https://design.wikimedia.org/style-guide/visual-style_icons.html\n    LICENSE: CC BY 4.0\n    REEDITED: Krzysztof Zablocki (Zamkorus)\n\n
-FontLog: "zamkor novum"
+FontLog: "fixed windows lineheight"
 Version: 2.6
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -34,9 +34,9 @@ OS2TypoAOffset: 0
 OS2TypoDescent: -200
 OS2TypoDOffset: 0
 OS2TypoLinegap: 90
-OS2WinAscent: 1206
+OS2WinAscent: 800
 OS2WinAOffset: 0
-OS2WinDescent: 12
+OS2WinDescent: 200
 OS2WinDOffset: 0
 HheadAscent: 800
 HheadAOffset: 0
@@ -68,7 +68,6 @@ WinInfo: 0 38 13
 BeginPrivate: 1
 BlueValues 7 [-20 0]
 EndPrivate
-AnchorClass2: """" 
 BeginChars: 32 32
 
 StartChar: .notdef
@@ -2270,7 +2269,7 @@ SplineSet
  760 733.599609375 733.599609375 760 700 760 c 2
  100 760 l 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uF6979
@@ -2314,7 +2313,7 @@ SplineSet
  120 600 l 2
  120 644.3203125 155.6796875 680 200 680 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uF697A
@@ -2355,7 +2354,7 @@ SplineSet
  195 535 266 605 352 605 c 0
  438 605 508 535 508 449 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF697B
@@ -2388,7 +2387,7 @@ SplineSet
  487.883789062 358.022460938 507.579101562 399.614257812 507.579101562 448.442382812 c 0
  507.579101562 497.26953125 487.883789062 538.861328125 457.889648438 565.551757812 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF697C
@@ -2430,7 +2429,7 @@ SplineSet
  475.294189453 320.78540039 450.588378906 326.835449219 428.176757812 338.935546875 c 2
  100.001953125 516.120117188 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF697D
@@ -2561,7 +2560,7 @@ SplineSet
  157.055664062 534.006835938 156.336914062 531.518554688 155.08203125 529.380859375 c 2
  26.880859375 310.975585938 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uF697E
@@ -2844,7 +2843,7 @@ SplineSet
  209.297140437 248.831045635 208.706415083 251.330480376 208.706415083 253.864660582 c 0x89c4c0
  208.706415083 260.078859461 212.258480201 266.501984795 217.80859375 269.435546875 c 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 EndChars
 EndSplineFont
