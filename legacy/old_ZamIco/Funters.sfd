@@ -3,8 +3,7 @@ FontName: Funters
 FullName: Funters
 FamilyName: Funters
 Weight: Regular
-Copyright: Copyright (c) 2024, Zamkorus (Krzysztof Zablocki - Plohnen Software) github.com/xKRISTOFx
-UComments: "2024-10-24: Created with FontForge (http://fontforge.org) by https://github.com/xKRISTOFx"
+Copyright: Copyright (c) 2024, Zamkorus (Krzysztof Zablocki - Plohnen Software) github.com/zamkorus
 Version: 1.010
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -12,38 +11,110 @@ UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
+sfntRevision: 0x0001028f
 LayerCount: 2
 Layer: 0 0 "Warstwa t+AUIA-a" 1
 Layer: 1 0 "Plan pierwszy" 0
-XUID: [1021 15 -1709294486 16559]
+XUID: [1021 15 -1709294486 11321]
+StyleMap: 0x0040
 FSType: 0
-OS2Version: 0
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729805210
 ModificationTime: 1729807391
-PfmFamily: 81
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+Panose: 2 0 5 9 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
 OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 800
+OS2WinAOffset: 0
+OS2WinDescent: 200
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
 OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000000.10000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "FontForge 2.0 : Funters : 24-10-2024" "" "Version 1.010"
+MATH:ScriptPercentScaleDown: 80
+MATH:ScriptScriptPercentScaleDown: 60
+MATH:DelimitedSubFormulaMinHeight: 1500
+MATH:DisplayOperatorMinHeight: 0
+MATH:MathLeading: 0 
+MATH:AxisHeight: 0 
+MATH:AccentBaseHeight: 0 
+MATH:FlattenedAccentBaseHeight: 0 
+MATH:SubscriptShiftDown: 0 
+MATH:SubscriptTopMax: 0 
+MATH:SubscriptBaselineDropMin: 0 
+MATH:SuperscriptShiftUp: 0 
+MATH:SuperscriptShiftUpCramped: 0 
+MATH:SuperscriptBottomMin: 0 
+MATH:SuperscriptBaselineDropMax: 0 
+MATH:SubSuperscriptGapMin: 200 
+MATH:SuperscriptBottomMaxWithSubscript: 0 
+MATH:SpaceAfterScript: 41 
+MATH:UpperLimitGapMin: 0 
+MATH:UpperLimitBaselineRiseMin: 0 
+MATH:LowerLimitGapMin: 0 
+MATH:LowerLimitBaselineDropMin: 0 
+MATH:StackTopShiftUp: 0 
+MATH:StackTopDisplayStyleShiftUp: 0 
+MATH:StackBottomShiftDown: 0 
+MATH:StackBottomDisplayStyleShiftDown: 0 
+MATH:StackGapMin: 150 
+MATH:StackDisplayStyleGapMin: 350 
+MATH:StretchStackTopShiftUp: 0 
+MATH:StretchStackBottomShiftDown: 0 
+MATH:StretchStackGapAboveMin: 0 
+MATH:StretchStackGapBelowMin: 0 
+MATH:FractionNumeratorShiftUp: 0 
+MATH:FractionNumeratorDisplayStyleShiftUp: 0 
+MATH:FractionDenominatorShiftDown: 0 
+MATH:FractionDenominatorDisplayStyleShiftDown: 0 
+MATH:FractionNumeratorGapMin: 50 
+MATH:FractionNumeratorDisplayStyleGapMin: 150 
+MATH:FractionRuleThickness: 50 
+MATH:FractionDenominatorGapMin: 50 
+MATH:FractionDenominatorDisplayStyleGapMin: 150 
+MATH:SkewedFractionHorizontalGap: 0 
+MATH:SkewedFractionVerticalGap: 0 
+MATH:OverbarVerticalGap: 150 
+MATH:OverbarRuleThickness: 50 
+MATH:OverbarExtraAscender: 50 
+MATH:UnderbarVerticalGap: 150 
+MATH:UnderbarRuleThickness: 50 
+MATH:UnderbarExtraDescender: 50 
+MATH:RadicalVerticalGap: 50 
+MATH:RadicalDisplayStyleVerticalGap: 50 
+MATH:RadicalRuleThickness: 50 
+MATH:RadicalExtraAscender: 50 
+MATH:RadicalKernBeforeDegree: 277 
+MATH:RadicalKernAfterDegree: -555 
+MATH:RadicalDegreeBottomRaisePercent: 60
+MATH:MinConnectorOverlap: 20
 Encoding: Original
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -51,10 +122,78 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 38 13
-BeginPrivate: 0
+BeginPrivate: 5
+BlueShift 1 0
+StdHW 5 [356]
+StdVW 4 [86]
+StemSnapH 5 [356]
+StemSnapV 8 [86 355]
 EndPrivate
-TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1 1
+BeginChars: 2 2
 
+StartChar: .notdef
+Encoding: 0 -1 0
+Width: 621
+GlyphClass: 1
+Flags: MW
+HStem: 0 50<100 521 100 571> 483 50<100 521 100 100>
+VStem: 50 50<50 50 50 483> 521 50<50 483 483 483>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1
+ 50 533 l 1
+ 571 533 l 1
+ 571 0 l 1
+ 50 0 l 1
+100 50 m 1
+ 521 50 l 1
+ 521 483 l 1
+ 100 483 l 1
+ 100 50 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniF100
+Encoding: 1 61696 1
+Width: 621
+GlyphClass: 1
+Flags: MW
+TopAccentHorizontal: 207
+HStem: 122 356<152.5 201.5>
+VStem: 0 355<275.5 324.5> 535 86<263 337>
+LayerCount: 2
+Fore
+SplineSet
+461 800 m 0
+ 476 800 488 793 497 779 c 0
+ 540 707 571 629 591 546 c 0
+ 611 464 621 382 621 300 c 0
+ 621 218 611 136 591 54 c 0
+ 571 -29 540 -107 497 -179 c 0
+ 488 -193 476 -200 461 -200 c 0
+ 447 -200 437 -195 430 -186 c 0
+ 423 -177 420 -166 420 -154 c 0
+ 420 -149 421 -144 423 -139 c 0
+ 425 -135 428 -130 431 -125 c 0
+ 468 -60 494 8 510 80 c 0
+ 527 152 535 226 535 300 c 0
+ 535 374 527 447 510 519 c 0
+ 494 591 468 660 431 725 c 0
+ 428 730 425 735 423 739 c 0
+ 421 744 420 749 420 754 c 0
+ 420 766 423 777 430 786 c 0
+ 437 795 447 800 461 800 c 0
+177 478 m 0
+ 226 478 267 461 302 426 c 0
+ 337 391 355 349 355 300 c 0
+ 355 251 337 209 302 174 c 0
+ 267 139 226 122 177 122 c 0
+ 128 122 86 139 51 174 c 0
+ 16 209 0 251 0 300 c 0
+ 0 349 16 391 51 426 c 0
+ 86 461 128 478 177 478 c 0
+EndSplineSet
+EndChar
 EndChars
 EndSplineFont
